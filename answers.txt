@@ -1,16 +1,52 @@
 a) What are some Pros and Cons of Agile Development (vs non-Agile)? List 2 of each
 Pros:
-    1.
-    2.
+    1. Fast and Adaptive
+    2. Allows for easy collaboration between mmultiple users
 
 Cons:
-    1.
-    2.
+    1. lack of predictibility
+    2. Difficult to coordinate when there are scaling changes from small to bigger teams
 
 b) Explain the role and responsibilities of the Scrum Master vs the Product Owner.
 
-    Both Scrum Master 
+    Scum Master:
+        is the process facilitator & guids the team/organization on Scrum practices
+        Identifies and removes impediments
+        Coaches the team
+        Protects the team
+        Facilitates SCRUM events ie: daily Scrum, Sprint planning, Sprint Review
+
+    Product Owner:
+        Defines the vision of the product and shares it to the team and stakeholders
+        Manages the project backlog
+        Is a liason between stakeholders
+        Aims to maximize value for shareholders
+        Gathers product requirements and ensures clarity and alignment in project goals
 
 c) What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings.
 
+    1. Sprint planning 
+        The entire teams discusses the product backlog
+        Decides what items are important to focus on
+        Sets a Sprint Goal and a detail plan to achieve it
+
+    2. Sprint Review
+        Discuss what was accomplished during the sprint
+        Give feedback on what was done well, what needs work
+        Discuss how to adapt and change for the next sprint
+
+    3. Sprint Retrospective
+        Look at the overall process/internal workings
+        Discuss what went well, what didn't, what needs to change overall big picture
+        Create a plan to improve the process/productivity
+
 d) Differentiate between Epic, Story, Bug, and Task issue types in JIRA
+
+    Bug: Reporting an issue or problem in the current software that needs to be fixed
+    Task: A specific, technical activity/work item needed to complete a Story
+    Story: Describing a specific functionality that a user wants from the product 
+    Epic: An overarching big large scale initiative that is too big to be done in one single sprint.
+
+    Hierarchy: Epic -> Story -> Task 
+
+    
