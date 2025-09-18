@@ -48,3 +48,4 @@ d) Differentiate between Epic, Story, Bug, and Task issue types in JIRA
     Epic: An overarching big large scale initiative that is too big to be done in one single sprint.
 
     Hierarchy: Epic -> Story -> Task 
+    
