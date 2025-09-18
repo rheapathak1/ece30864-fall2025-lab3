@@ -10,7 +10,7 @@ Cons:
 b) Explain the role and responsibilities of the Scrum Master vs the Product Owner.
 
     Scum Master:
-        is the process facilitator & guids the team/organization on Scrum practices
+        Is the process facilitator & guids the team/organization on Scrum practices
         Identifies and removes impediments
         Coaches the team
         Protects the team
